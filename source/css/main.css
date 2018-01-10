@@ -29,7 +29,7 @@ body {
 /**
  * Add the correct display in IE 9-.
  */
-
+article,
 section {
   display: block;
 }
@@ -271,6 +271,7 @@ html {
  * Removes the default spacing and border for appropriate elements.
  */
 
+p,
 pre {
   margin: 0;
 }

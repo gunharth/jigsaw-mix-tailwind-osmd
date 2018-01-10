@@ -35,7 +35,7 @@
 
             <div class="py-12">
 
-            @yield('body')
+            @yield('content')
 
 
             </div>
