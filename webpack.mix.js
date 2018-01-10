@@ -37,7 +37,8 @@ const plugins = [
 
         // Specify the locations of any files you want to scan for class names.
         paths: glob.sync([
-            path.join(__dirname, "source/index.blade.php"),
+            path.join(__dirname, "source/*.blade.php"),
+            path.join(__dirname, "source/_layouts/*.blade.php"),
             //path.join(__dirname, "source/_assets/js/**/*.vue")
         ]),
         extractors: [
