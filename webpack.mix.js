@@ -19,7 +19,6 @@ class TailwindExtractor {
 }
 
 const env = argv.e || argv.env || 'local'
-console.log(env);
 const plugins = [
     new OnBuild(() => {
         command.get('./vendor/bin/jigsaw build ' + env, (error, stdout, stderr) => {
