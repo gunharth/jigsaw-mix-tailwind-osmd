@@ -1,3 +1,8 @@
 .post-title {
     @apply text-xl text-black font-bold tracking-wide;
+    text-decoration: none;
+}
+
+.post-title:hover {
+    text-decoration: underline;
 }
