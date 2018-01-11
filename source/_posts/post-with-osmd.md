@@ -8,6 +8,14 @@ section: content
 
 #A markdown blog post with opensheetmusicdisplay
 
+A first osmd score
+
 ```score
-todo: init osmd
+../scores/score1.xml
+```
+
+A second osmd score
+
+```score
+../scores/score2.xml
 ```

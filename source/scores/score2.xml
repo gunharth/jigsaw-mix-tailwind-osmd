@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
+<work>
+    <work-title> </work-title>
+  </work>
   <identification>
     <encoding>
       <software>MuseScore 2.1.0</software>
@@ -77,29 +80,29 @@
           <line>2</line>
           </clef>
         </attributes>
-      <note default-x="75.17" default-y="-50.00">
+      <note default-x="75.17" default-y="-15.00">
         <pitch>
           <step>C</step>
-          <octave>4</octave>
+          <octave>5</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem>up</stem>
+        <stem>down</stem>
         </note>
-      <note default-x="138.58" default-y="-45.00">
+      <note default-x="138.58" default-y="-20.00">
         <pitch>
-          <step>D</step>
+          <step>B</step>
           <octave>4</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <stem>up</stem>
+        <stem>down</stem>
         </note>
-      <note default-x="201.99" default-y="-40.00">
+      <note default-x="201.99" default-y="-25.00">
         <pitch>
-          <step>E</step>
+          <step>A</step>
           <octave>4</octave>
           </pitch>
         <duration>1</duration>
@@ -107,19 +110,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="265.40" default-y="-35.00">
-        <pitch>
-          <step>F</step>
-          <octave>4</octave>
-          </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>up</stem>
-        </note>
-      </measure>
-    <measure number="2" width="275.64">
-      <note default-x="12.00" default-y="-30.00">
+      <note default-x="265.40" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -129,7 +120,9 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="77.51" default-y="-35.00">
+      </measure>
+    <measure number="2" width="275.64">
+      <note default-x="12.00" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -139,9 +132,9 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="143.02" default-y="-40.00">
+      <note default-x="77.51" default-y="-30.00">
         <pitch>
-          <step>E</step>
+          <step>G</step>
           <octave>4</octave>
           </pitch>
         <duration>1</duration>
@@ -149,22 +142,32 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="208.53" default-y="-45.00">
+      <note default-x="143.02" default-y="-25.00">
         <pitch>
-          <step>D</step>
+          <step>A</step>
           <octave>4</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        </note>
+      <note default-x="208.53" default-y="-20.00">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
         </note>
       </measure>
     <measure number="3" width="231.96">
-      <note default-x="12.00" default-y="-50.00">
+      <note default-x="12.00" default-y="-15.00">
         <pitch>
           <step>C</step>
-          <octave>4</octave>
+          <octave>5</octave>
           </pitch>
         <duration>4</duration>
         <voice>1</voice>

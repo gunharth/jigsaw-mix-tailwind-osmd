@@ -11,6 +11,9 @@
             {{ $post->dateFormatted() }}
         </div>
     </li>
+
+
+    <code>put this in so purgecss dosn't remove code style</code>
 @endforeach
 </ul>
 
