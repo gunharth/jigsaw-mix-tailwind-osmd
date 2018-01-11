@@ -8,7 +8,7 @@
         <a class="post-title" href="{{ $post->getPath() }}">{{ $post->title }}</a></li>
         <div class="text-sm text-grey mb-3">
             <span class="font-bold">Published on</span>
-            December 29, 2017
+            {{ $post->dateFormatted() }}
         </div>
     </li>
 @endforeach
