@@ -24,7 +24,7 @@
  * @import "components/forms";
  */
 
-/* @import "components/headings";*/
+@import "components/post-title";
 
 /**
  * This injects all of Tailwind's utility classes, generated based on your
@@ -48,6 +48,10 @@
  * @import "utilities/skew-transforms";
  */
 
- a {
-     text-decoration: none;
- }
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

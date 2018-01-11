@@ -5,15 +5,8 @@ return [
     'production' => false,
     'collections' => [
         'posts' => [
-            'path' => 'posts',
+            'path' => '{-title}',
             'sort' => 'date',
-        ],
-        'articles' => [
-            'path' => 'music/articles/{-article}/{-title}',
-            'sort' => '-date',
-        ],
-    ],
-    'selected' => function ($page, $section) {
-        return str_contains($page->getPath(), $section) ? 'selected' : '';
-    },
+        ]
+    ]
 ];
