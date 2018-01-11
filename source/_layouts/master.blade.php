@@ -20,7 +20,7 @@
             <div class="border-t border-b py-2 px-1 mt-8 flex items-center justify-center text-base">
                 <div></div>
                 <div class="px-4 pt-1">
-                    <a href="#" rel="noopener noreferer" target="_blank" class="text-brand-light hover:text-brand mr-1"><i class="fab fa-github-square text-3xl"></i></a>
+                    <a href="https://github.com/gunharth/jigsaw-mix-tailwind-osmd" rel="noopener noreferer" target="_blank" class="text-brand-light hover:text-brand mr-1"><i class="fab fa-github-square text-3xl"></i></a>
                 </div>
             </div>
             <div class="py-12">
