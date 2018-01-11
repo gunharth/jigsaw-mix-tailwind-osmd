@@ -2,7 +2,7 @@
 extends: _layouts.master
 title: A markdown blog post with highlight.js
 author: Gunharth Randolf
-date: 2018-01-11
+date: 2018-01-05
 section: content
 ---
 

@@ -2,7 +2,7 @@
 extends: _layouts.master
 title: A markdown blog post with opensheetmusicdisplay
 author: Gunharth Randolf
-date: 2018-01-12
+date: 2018-01-06
 section: content
 ---
 
