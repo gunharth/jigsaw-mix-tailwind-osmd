@@ -29,23 +29,50 @@ Western Music, its melodic and harmonic concept, is based on a very mathematical
 
 That's it!?! I had to wait for this page to load just to get this wise description!?! Well, let's get serious. The sentence above is simplistic of course, but in essence it stands for what intervals are: A mathematical concept, a strict meassurement.... In the same way you would explain to somebody the way from point A (your favorite pub) to point B (your favorite blues bar), you describe the distance between two notes. The difference being that with music, it's intervals that are your miles and minutes.
 
-Before we go into further detail let's just have a quick look at how we come across intervals with two examples. Note that these can be seen vertically, meaning single notes stacked upon each other, ie a chordal approach, and horizontally, meaning single notes played one after the other, ie a melodic approach.
+Before we go into further detail let's just have a quick look at how we come across intervals with two examples. Note that these can be seen vertically, meaning single notes stacked upon each other, ie a chordal/harmonic approach, and horizontally, meaning single notes played one after the other, ie a melodic approach.
 
-2 single notes:
+**2 single notes**
 ```text
+Melodic Interval
+
 Note 1       Note 2
   |____________|
     1 interval
 ```
 
-triad (3 single notes):
 ```text
+Harmonic Interval
+
+Note 2 -
+        |
+        | 1 interval
+        |
+Note 1 -
+```
+
+**A Triad** (3 single notes):
+```text
+Melodic
+
 Note 1       Note 2       Note 3
   |____________|____________|
    1st interval 2nd interval
 
   |_________________________|
           3rd interval
+```
+```text
+Harmonic
+
+Note 3 -              -
+        |              |
+        | 2nd interval |
+        |              |
+Note 2 -               | 3rd interval
+        |              |
+        | 1st interval |
+        |              |
+Note 1 -              -
 ```
 
 Feel free to examine 4 notes or apply the above to a scale. So how about one single note you might ask. Well, as long it's just one note- no real interval is involved. But let's say we play the same note twice (either on the same instrument or on two different instruments) then an interval is involved. In our metaphorical example this would mean that your favorite pub is also your favorit Blues bar (ya a lucky guy:-).
