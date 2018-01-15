@@ -8,6 +8,12 @@ section: content
 
 #A markdown blog post with opensheetmusicdisplay
 
+Music XML Hello World
+
+```score
+../scores/musicxml_hello_world.xml
+```
+
 A first osmd score
 
 ```score

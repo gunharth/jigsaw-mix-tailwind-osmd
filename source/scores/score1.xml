@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
-<work>
-    <work-title> </work-title>
-  </work>
   <identification>
     <encoding>
       <software>MuseScore 2.1.0</software>
@@ -26,13 +23,13 @@
       <page-margins type="even">
         <left-margin>0</left-margin>
         <right-margin>0</right-margin>
-        <top-margin>0</top-margin>
+        <top-margin>0.00</top-margin>
         <bottom-margin>0</bottom-margin>
         </page-margins>
       <page-margins type="odd">
         <left-margin>10</left-margin>
         <right-margin>0</right-margin>
-        <top-margin>0</top-margin>
+        <top-margin>0.00</top-margin>
         <bottom-margin>0</bottom-margin>
         </page-margins>
       </page-layout>

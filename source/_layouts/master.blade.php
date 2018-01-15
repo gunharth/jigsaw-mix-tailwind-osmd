@@ -31,6 +31,7 @@
         <script defer src="//use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script>
+        <script type="text/javascript" src="{{ $page->baseUrl }}/js/osmd/osmd.min.js"></script>
         <script type="text/javascript" src="{{ $page->baseUrl }}/js/app.js"></script>
     </body>
 </html>
